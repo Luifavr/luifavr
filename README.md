@@ -1,4 +1,4 @@
-- 👋 Hi there! My name is Luis
+- 👋 Hi there! My name is Luis 🙂
 - 👀 I’m really interested in Python programming and the Data Science and Data Analysis field
 - 👨‍💻 I'm interested on using Python 🐍, SQL and the different libraries to manipulate, visualize data, and create models such as:
   - Numpy
