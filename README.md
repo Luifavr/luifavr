@@ -6,7 +6,7 @@
   - Matplotlib
   - Seaborn
   - Scikit-Learn
-  - TensorFlow
+  - SQLAlchemy
   
 - 📫 If you want to get in contact, reach me at luisvonrickenbach@gmail.com
 
