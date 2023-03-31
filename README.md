@@ -3,7 +3,7 @@
 
 - 🐍 I use **Python, SQL and the different libraries and tools to work with Data**
 
-- 👨‍💻 All of my projects are available at [https://github.com/luifavr?tab=repositories](https://github.com/luifavr?tab=repositories)
+- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/luifavr?tab=repositories)
 
 - 📫 You can reach me at **luisvonrickenbach@gmail.com**
 
