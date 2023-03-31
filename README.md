@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">Im really interested in working with data to find solutions within it</h3>
 
-- 🌱 I use **Python, SQL and the different libraries and tools to work with Data**
+- 🐍 I use **Python, SQL and the different libraries and tools to work with Data**
 
 - 👨‍💻 All of my projects are available at [https://github.com/luifavr?tab=repositories](https://github.com/luifavr?tab=repositories)
 
