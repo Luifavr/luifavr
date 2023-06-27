@@ -3,9 +3,9 @@
 
 - 🐍 I use **Python, SQL and the different libraries and tools to work with Data**
 
-- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/luifavr?tab=repositories)
+- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/luifavr?tab=repositories) profile
 
-- 📫 You can reach me at **luisvonrickenbach@gmail.com**
+- 📩 You can reach me at **luisvonrickenbach@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
